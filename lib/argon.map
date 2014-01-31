@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "argon.js",
+  "sourceRoot": "..",
+  "sources": [
+    "src/argon.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAEA,IAAA,UAAA;;AAAA,CAAA,CAAA,CAAQ,EAAR;;AAEA,CAFA,EAEoB,EAAf,EAAe,GAApB,IAAoB;;AACpB,CAHA,EAGoB,EAAf,EAAe,CAApB,IAAoB;;AACpB,CAJA,EAIoB,EAAf,EAAe,EAAA;;AACpB,CALA,EAKoB,CAApB,CAAK,EAAe,CAAA;;AACpB,CANA,EAMoB,EAAf,CAAL,CAAoB,UAAA;;AACpB,CAPA,EAOoB,EAAf,EAAe,IAApB,KAAoB;;AACpB,CARA,EAQoB,EAAf,MARL;;AAUA,CAVA,EAUU,EAVV,CAUgB,CAAhB;;;CACQ,CAAR,CAAgB,EAAhB,CAAM;EAXN"
+}
